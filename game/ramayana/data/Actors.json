@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"หนุมาน-ตี","characterIndex":0,"characterName":"หนุมาร-เดิน","classId":1,"equips":[10,1,2,3,0],"faceIndex":0,"faceName":"หนุมาน","traits":[],"initialLevel":1,"maxLevel":99,"name":"หนุมาน","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"ปาตี้1-ตี","characterIndex":0,"characterName":"ปาตี้1-เดิน","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"ปาตี้1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"ปาตี้2-ตี","characterIndex":0,"characterName":"ปาตี้2-เดิน","classId":3,"equips":[9,0,2,3,4],"faceIndex":0,"faceName":"ปาตี้2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"ปาตี้3-ตี","characterIndex":0,"characterName":"ปาตี้3-เดิน","classId":5,"equips":[11,0,2,3,4],"faceIndex":0,"faceName":"ปาตี้3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"คนงาน1-ตี","characterIndex":0,"characterName":"คนงาน1-เดิน","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"คนงาน1","traits":[],"initialLevel":1,"maxLevel":99,"name":"sadasd","nickname":"","note":"","profile":""},
-{"id":6,"battlerName":"คนงาน2-ตี","characterIndex":0,"characterName":"คนงาน2-เดิน","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"คนงาน2","traits":[],"initialLevel":1,"maxLevel":99,"name":"asdasd","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"หนุมาน-ตี","characterIndex":0,"characterName":"หนุมาร-เดิน","classId":1,"equips":[34,13,9,5,20],"faceIndex":0,"faceName":"หนุมาน","traits":[],"initialLevel":1,"maxLevel":99,"name":"หนุมาน","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"ปาตี้1-ตี","characterIndex":0,"characterName":"ปาตี้1-เดิน","classId":2,"equips":[31,14,10,6,18],"faceIndex":0,"faceName":"ปาตี้1","traits":[],"initialLevel":1,"maxLevel":99,"name":"เอลิชิโอ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"ปาตี้2-ตี","characterIndex":0,"characterName":"ปาตี้2-เดิน","classId":4,"equips":[9,15,11,7,19],"faceIndex":0,"faceName":"ปาตี้2","traits":[],"initialLevel":1,"maxLevel":99,"name":"แอนเจลล่า","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"ปาตี้3-ตี","characterIndex":0,"characterName":"ปาตี้3-เดิน","classId":5,"equips":[13,16,12,8,17],"faceIndex":0,"faceName":"ปาตี้3","traits":[],"initialLevel":1,"maxLevel":99,"name":"ริโกะ","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
